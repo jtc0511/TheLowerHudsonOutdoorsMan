@@ -1,0 +1,61 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+.navmenu {
+  background-color: whitesmoke;
+  font-size: larger;
+  color: black;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 20px;
+}
+.artpic {
+  display: flex;
+  flex-direction: row;
+}
+
+.fishpics {
+  flex: 1;
+  height: auto;
+  width: 400px;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+.articles {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin: 25px;
+  margin-top: 40px;
+  text-indent: 30px;
+  background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 20px;
+  font-size: 21px;
+}
+
+.title {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  margin: 45px;
+  background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.subtitle {
+  display: inline-block;
+  margin-left: 25%;
+  font-size: larger;
+  background-color: whitesmoke;
+  padding: 25px;
+  border-radius: 20px;
+}
+body {
+  background-color: rgb(128, 48, 2);
+}
