@@ -59,3 +59,6 @@ p {
 body {
   background-color: rgb(128, 48, 2);
 }
+.homepgcont {
+  display: flex;
+}
