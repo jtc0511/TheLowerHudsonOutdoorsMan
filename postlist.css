@@ -15,12 +15,15 @@
 .navbar {
   display: flex;
   justify-content: space-evenly;
+  border: 5px solid;
+  height: 100px;
 }
 .navmenu {
-  background-color: whitesmoke;
+  background-color: rgb(132, 182, 135);
   font-size: larger;
   color: black;
   font-weight: bold;
   padding: 15px;
   border-radius: 20px;
+  height: 30px;
 }
