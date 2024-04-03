@@ -1,0 +1,26 @@
+.imgintrocont {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+.linkstoposts {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+.readmore {
+  outline: 2px solid;
+  font-size: 20px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+.navmenu {
+  background-color: whitesmoke;
+  font-size: larger;
+  color: black;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 20px;
+}
